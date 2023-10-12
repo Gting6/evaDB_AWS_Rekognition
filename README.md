@@ -11,9 +11,9 @@
 - Local Machine
   - Set your aws credential and region to `~/.aws/credential` and `~/.aws/config`
   - `pip install -r requirements.txt`
-  - Put all files in `image` into `evadb/`
+  - Put all files in `image` into `./`
   - Put all files `aws*` in `evadb/functions/`
-  - Put `run_evadb.py` in `evadb/`
+  - Put `run_evadb.py` in `./`
   - `python -m run_evadb`
 
 ## Result
